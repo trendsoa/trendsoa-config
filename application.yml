@@ -3,5 +3,5 @@ key2: hellocJJJJ
 key3: hhfhhhfff
 spring.cloud.config:
   allowOverride: true
-  overrideNone: true
-  #overrideSystemProperties: true
+  overrideNone: true #default false
+  overrideSystemProperties: false
