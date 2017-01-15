@@ -4,4 +4,4 @@ key3: hhfhhhfff
 spring.cloud.config:
   allowOverride: true
   overrideNone: true #default false
-  overrideSystemProperties: false
+  overrideSystemProperties: true
